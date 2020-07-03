@@ -1,0 +1,52 @@
+
+body{
+   background-image: url("Group.jpg");
+   width:100%;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+div{
+   background-color: whitesmoke;
+   margin: auto 
+}
+h2{
+   color: blue;
+   font-style: italic;
+}
+header,footer{
+   width: 100%;
+   position: fixed;        
+   background:tomato;
+   padding: 10px;
+   color:black ;
+}
+header{
+   top: 0px;
+}
+footer{
+   bottom: 0px;
+}
+#applybutton{
+   background-color: yellowgreen;
+   padding: 10px;
+}
+#sampleappbutton{
+   background-color: orange;
+   padding: 10px;
+
+}
+nav {
+   list-style-type: none;
+   text-align: center; 
+   padding: 0;
+   margin: 0;
+ }
+ 
+ nav li {
+   display: inline-block;
+   font-size: 20px;
+   padding: 10px;
+ }
+ul{
+   display: inline-block;
+}
